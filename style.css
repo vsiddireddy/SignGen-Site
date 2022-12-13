@@ -1,0 +1,70 @@
+body {
+	background-color: #ebecee;
+}
+
+h1 {
+	text-align: center;
+	font-family: 'Poppins', sans-serif;
+}
+
+h3 {
+	text-align: center;
+	font-family: 'Poppins-300', sans-serif;
+	color: lightgrey;
+}
+
+#subtext {
+	text-align: center;
+	font-family: 'Poppins-300', sans-serif;
+	color: #787878;
+	max-width: 900px;
+	margin:0 auto;
+}
+
+#started {
+	background-color: #4d5976;
+	color: white;
+  border-radius: 10px;
+}
+
+#get-started-sub {
+  text-align: center;
+  font-family: 'Poppins-300', sans-serif;
+  font-size: 18px;
+  color: #a6afc2;
+}
+
+#bar {
+  width: 350px;
+  height: 420px;
+  background-color: #687696;
+  border-radius: 25px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#lifetime-access {
+  text-align: center;
+  color: #d8dae2;
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+}
+
+#details {
+  text-align: center;
+  font-family: 'Poppins-300', sans-serif;
+}
+
+#buttonID, #buybutton {
+    background-color: #3c475f;
+    border: none;
+    border-radius: 5px;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    padding: 8px;
+    text-align: center;
+    font-size: 22px;
+    width: 250px;
+    margin: 0 auto;
+}
