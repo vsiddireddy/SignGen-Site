@@ -1,0 +1,21 @@
+body {
+	background-color: #14003c;
+}
+
+header {
+	font-family: 'Poppins-300', sans-serif;
+	color: white;
+	text-align: right;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  color: white;
+}
+
+#date {
+	color: white;
+	font-family: 'Poppins-300', sans-serif;
+	text-align: center;
+}
