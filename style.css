@@ -126,10 +126,10 @@ footer {
   background: #E1306C;
 }
 .wrapper .button:nth-child(4):hover .icon{
-  background: #333;
+  background: #c4302b;
 }
 .wrapper .button:nth-child(5):hover .icon{
-  background: #ff0000;
+  background: #7289DA;
 }
 .wrapper .button .icon i{
   font-size: 25px;
