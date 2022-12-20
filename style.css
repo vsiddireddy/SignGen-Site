@@ -80,12 +80,18 @@ h3 {
 footer {
   height: 200px;
   background-color: #161616;
+    /* center a div inside another div */
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
 }
 
 #footer-category {
   font-family: 'Poppins', sans-serif;
   color: #787878;
-  text-align: right;
+  text-align: center;
   word-spacing: 25px;
   padding-right: 20px;
 }
@@ -131,6 +137,10 @@ footer {
 .wrapper .button:nth-child(5):hover .icon{
   background: #7289DA;
 }
+.wrapper .button:nth-child(6):hover .icon{
+  background: #0072b1;
+}
+
 .wrapper .button .icon i{
   font-size: 25px;
   line-height: 60px;
