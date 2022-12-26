@@ -17,8 +17,22 @@ h3 {
 }
 
 #logo {
-  width: 13%;
-  height: 13%;
+  width: 15%;
+  height: 15%;
+}
+
+@media screen and (max-width:700px) {
+  #logo {
+    width: 25%;
+    height: 25%;
+  }
+}
+
+@media screen and (max-width:500px) {
+  #logo {
+    width: 25%;
+    height: 25%;
+  }
 }
 
 #subtext {
