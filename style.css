@@ -110,6 +110,14 @@ footer {
   padding-right: 20px;
 }
 
+#footer-category-legal {
+  font-family: arial;
+  font-size: 12px;
+  color: #787878;
+  text-align: center;
+  padding-right: 20px;
+}
+
 .wrapper .button{
   display: inline-block;
   height: 60px;
